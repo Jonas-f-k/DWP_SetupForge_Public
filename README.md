@@ -4,12 +4,12 @@ working rn:
 - upload pics
 - posts, likes, comments
 - profiles
-- some admin stuff
+- some admin
 
 still:
-- featured pics
+- featurepics
 - more admin options
-- site colours / themes
-- post history
-- check the other admin pages
-- report stuff
+- site colour themes
+- post histories
+  other admin pages
+- report
