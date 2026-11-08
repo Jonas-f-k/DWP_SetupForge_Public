@@ -1,0 +1,4 @@
+config/database.php
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
