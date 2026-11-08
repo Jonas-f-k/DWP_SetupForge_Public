@@ -1,0 +1,2 @@
+<?php
+$list = $posts->all();
